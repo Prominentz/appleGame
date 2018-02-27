@@ -1,0 +1,5 @@
+How to Play the Apple Game:
+
+The object of this game is to collect 10 apples, no more no less, by cathing them
+in the basket at the bottom of the screen. There is no time limit, there is 
+no penalty for letting an apple hit the ground. Good Luck!
